@@ -2,7 +2,7 @@
 using namespace std;        //program utama line 4-20
 
 int main(){//Begin
-   
+
    //numeric Luas, P, L
    double Luas, P, L;
    //display, "Masukkan Panjangnya : "
